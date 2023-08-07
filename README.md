@@ -1,2 +1,2 @@
 # Googlescolar
-https://myaccount.google.com/personal-info?hl=en
+link-https://scholar.google.com/citations?user=1OzcmVUAAAAJ&hl=en
